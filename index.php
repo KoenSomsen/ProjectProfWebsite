@@ -16,7 +16,7 @@
 <body>
   <!-- header row -->
   <div class="row">
-    <div class="col-12 header">
+    <div class="col-12 header bg-midgreen">
       <div class="row">
         <div class="col-2 logo">
           <!-- <img src="https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/9/8/0/9200000013300893.jpg" /> -->
@@ -49,7 +49,7 @@
   <!-- end big image -->
   <!-- main page row -->
   <div class="row mainpage">
-    <div class="col-2 sidebar bg-lightgreen">
+    <div class="col-2 sidebar">
       SIDEBAR
     </div>
     <div class="col-10 content">
@@ -76,13 +76,12 @@
   </div>
   <!-- end main page row -->
   <!-- Footer -->
-  <div class="row footer bg-green">
+  <div class="row footer bg-midgreen fnt-white">
     <div class="col-3">
       <!-- Lege placeholder -->
     </div>
     <div class="col-6">
-      Footer
-      <!-- Center tags weghalen.. MAGNIET! VERBOTEN!! -->
+      Copyright 2019 Amazon hogeschool
     </div>
     <div class="col-3">
       <!-- Lege placeholder -->
