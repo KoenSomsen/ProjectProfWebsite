@@ -1,0 +1,112 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  padding: 0px;
+  margin: 0px;
+  min-width: 360px;
+}
+
+.header {
+  height: 100px;
+  color: white;
+  overflow: auto;
+  position: relative;
+  background-color: #2ecd71;
+}
+
+.header .logo p {
+  font-weight: 700;
+  margin-left: 5px;
+}
+
+.navbar > ul {
+  
+  font-weight: 700;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float: right;
+}
+
+.navbar > ul > li {
+  float: left;
+
+}
+
+.navbar > ul > li:hover {
+  background-color: #2ab966;
+}
+.navbar > ul > li > a {
+  color: white;
+  display: block;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.bigimage {
+  background-color: #d8d8d8;
+  height: 350px;
+  overflow: hidden;
+  background-image: url("https://previews.123rf.com/images/lembergvector/lembergvector1512/lembergvector151200057/49645706-wide-banner-illustration-of-buildings-under-construction-in-process-.jpg");
+  background-size: cover;
+}
+
+
+.mainpage {
+  
+}
+
+.mainpage, .sidebar {
+  height: 250px;
+  border: 1px solid red;
+}
+
+.fakeimage {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+}
+
+.footer {
+  position: fixed;
+  width: 100%;
+  height: 45px;
+  bottom: 0px;
+  background-color: #2ecd71;
+}
+
+.content {
+
+}
+
+.card {
+  padding: 5px;
+}
+
+.card > .card_title {
+  font-size: 20px;
+  font-weight: 550;
+}
+
+.card > p {
+  color: #626569;
+}
+
+.roundedbutton {
+  border-radius: 15px;
+  width: 150px;
+  height: 50px;
+  background-color: #2ecd71;
+  border: none;
+  color: white;
+  margin: 0 auto;
+}
+
+.white {
+  color: white;
+}
+

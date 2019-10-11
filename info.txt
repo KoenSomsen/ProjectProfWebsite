@@ -1,0 +1,21 @@
+-- pages -- 
+
+Index (home)
+
+Opleidingen
+- Kopjes naar uitstroom richtingen
+
+Info
+- Inschrijven opendag
+- Contact
+- Form met email 
+
+Gallerij
+- Uploaden fotos
+
+-- Templates -- 
+
+Opleiding template
+Galerij template
+Informatie template
+Index template
