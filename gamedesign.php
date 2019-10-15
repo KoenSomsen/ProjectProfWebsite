@@ -5,12 +5,13 @@
 
   <!--  Meta  -->
   <meta charset="UTF-8" />
-  <title>School project template</title>
+  <title>Game Design</title>
 
   <!--  Styles  -->
   <link rel="stylesheet" href="styles/grid.css">
   <link rel="stylesheet" href="styles/index.css">
-
+  <link rel="stylesheet" href="styles/gamedesign.css">
+  
 </head>
 
 <body>
@@ -24,9 +25,9 @@
         </div>
         <div class="col-10 navbar">
           <ul>
-            <li><a class="active fnt-black" href="#home">Home</a></li>
+            <li><a class="active fnt-black" href="http://localhost/websit/projectprofwebsite/index.php">Home</a></li>
             <li><a href="#opleidingen" class="fnt-black">Opleidingen</a></li>
-            <li><a href="galerij.php" class="fnt-black">Galerij</a></li>
+            <li><a href="#galerij" class="fnt-black">Galerij</a></li>
             <li><a href="#inschrijven" class="fnt-black">Inschrijven</a></li>
           </ul>
         </div>
@@ -56,32 +57,7 @@
     </div>
     <div class="col-10 content">
       <!-- CONTENT HIER !!  -->
-      <div class="row">
 
-        <div class="col-3 card">
-          <div class="card_title">Vind jouw opleiding</div>
-          <p>Maak een keuze uit ons complete aanbod aan opleidingen.</p>
-        </div>
-        <div class="col-3 card">
-          <div class="card_title">Inschrijven: hoe doe je dat?</div>
-          <p>Met een inschrijving zet je de eerste stap richting jouw studie bij Amazon Hogeschool.</p>
-        </div>
-        <div class="col-3 card">
-          <div class="card_title">Infoavond Werken & Studeren</div>
-          <p>Kom naar onze Infoavond deeltijdopleidingen op dinsdag 26 november.</p>
-        </div>
-        <div class="col-3 card">
-          <div class="card_title">Hulp bij opleiding kiezen</div>
-          <p>Wij helpen je graag om de opleiding te vinden die jou op het lijf geschreven is.</p>
-        </div>
-
-      </div>
-      <div class="row">
-        <div class="col-12 card">
-          <h1>Amazon hogeschool. Grensverleggend !</h1>
-          <p>Door je grenzen te verleggen bereik je meer. Daarom dagen onze docenten je iedere dag uit je talenten te ontdekken en te ontwikkelen. Deze ontdekkingsreis overstijgt de grenzen van je opleiding. Je doet namelijk ook kennis op bij andere opleidingen en zelfs buiten de muren van onze hogeschool. Onze campussen vind je in Noord-Nederland en in het buitenland. Van Leeuwarden tot Zuid-Afrika; de wereld ligt aan je voeten.</p>
-        </div>
-      </div>
     </div>
   </div>
   <!-- end main page row -->

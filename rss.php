@@ -26,7 +26,7 @@
           <ul>
             <li><a class="active fnt-black" href="#home">Home</a></li>
             <li><a href="#opleidingen" class="fnt-black">Opleidingen</a></li>
-            <li><a href="galerij.php" class="fnt-black">Galerij</a></li>
+            <li><a href="#galerij" class="fnt-black">Galerij</a></li>
             <li><a href="#inschrijven" class="fnt-black">Inschrijven</a></li>
           </ul>
         </div>
@@ -52,7 +52,21 @@
   <!-- main page row -->
   <div class="row mainpage">
     <div class="col-2 sidebar">
-      RSS-FEED
+      <?php 
+		$feed  = "http://feeds.feedburner.com/tweakers/mixed";
+		$xml = simplexml_load_file($feed);
+		$xml2 = simplexml_load_file($feed);
+		foreach ($xml->channel->item as $item2){
+		echo "<div class='filler'>";
+			//showed de title, description en link op de pagina van de $feed (kan uitgebreid worden met meerdere dingen als pagina het heeft.
+		echo "<div class='kleur fontSize'>" .$item2->title . "</div><br>";
+                      
+		echo  "<div class='color'>" . $item2->description . "</div><br>";
+		echo "</div>";
+		echo  "<div class='color'>" . $item2->pubDate . "</div><br><br>";
+		//echo "<div class='size2'><div class='color'> ". $item2->link ." </div><div>";  
+		}               
+	  ?>
     </div>
     <div class="col-10 content">
       <!-- CONTENT HIER !!  -->
