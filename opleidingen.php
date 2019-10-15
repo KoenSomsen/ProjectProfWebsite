@@ -10,6 +10,7 @@
   <!--  Styles  -->
   <link rel="stylesheet" href="styles/grid.css">
   <link rel="stylesheet" href="styles/index.css">
+  <link rel="stylesheet" href="styles/opleidingen.css">
 
 </head>
 
