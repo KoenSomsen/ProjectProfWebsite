@@ -25,9 +25,9 @@
         <div class="col-10 navbar">
           <ul>
             <li><a class="active fnt-black" href="#home">Home</a></li>
-            <li><a href="#news" class="fnt-black">News</a></li>
-            <li><a href="#contact" class="fnt-black">Contact</a></li>
-            <li><a href="#about" class="fnt-black">About</a></li>
+            <li><a href="#opleidingen" class="fnt-black">Opleidingen</a></li>
+            <li><a href="#galerij" class="fnt-black">Galerij</a></li>
+            <li><a href="#inschrijven" class="fnt-black">Inschrijven</a></li>
           </ul>
         </div>
       </div>
