@@ -60,6 +60,9 @@
                     <div class="col-12 card">
                         <h1>Software Engineer</h1>
                     </div>
+                    <div class="col-12 softwareengineer">
+                        <p>
+                    </div>
                 </div>
             </div>
             <!-- end main page row -->
