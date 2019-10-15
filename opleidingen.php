@@ -58,38 +58,45 @@
     <div class="col-10 content">
       <!-- CONTENT HIER !!  -->
 	  <div class="row">
-	  <!--leeg-->
-	  </div>
-
-	  <div class="row">
 		<div class="col-12">
 		<p>Bij Amazon hogeschool bieden wij een aantal opleiding op het gebied van informatica en ICT </p>
 		</div>
 	  </div>
 
 	  <div class="row">
-		<div class="col-6">
-			<a href="gamedesing.php">
-			<img src="gamedesing.jpg"/>
-			</a>
+		<div class="col-4">
+			<div class="oplfoto">
+				<a href="gamedesing.php">
+					<img src="images/gamedesing.jpg"/>
+				</a>
+			</div>
 		</div>
-		<div class="col-6">
-			<a href="systeembeheer.php">
-			<img src="systeembeheer.jpg"/>
-			</a>
+		<div class="col-4">
+			<div class="oplfoto">
+				<a href="systeembeheer.php">
+					<img src="images/systeembeheer.jpg"/>
+				</a>
+			</div>
 		</div>
+		<div class="col-4"></div>
 	  </div>
+
 	  <div class="row">
-		<div class="col-6">
-			<a href="softwareengeneering.php">
-			<img src="softwareengeneering.jpg"/>
-			</a>
+		<div class="col-4">
+			<div class="oplfoto">
+				<a href="softwareengeneering.php">
+					<img class="oplfoto" src="images/softwareengeneering.jpg"/>
+				</a>
+			</div>
 		</div>
-		<div class="col-6">
-			<a href="security.php">
-			<img src="security.jpg"/>
-			</a>
+		<div class="col-4">
+			<div class="oplfoto">
+				<a href="security.php">
+					<img src="images/security.jpg"/>
+				</a>
+			</div>
 		</div>
+		<div class="col-4"></div>
 	  </div>
     </div>
   </div>
