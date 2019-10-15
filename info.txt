@@ -1,17 +1,24 @@
 -- pages -- 
 
-Index (home)
+Index (home) (sydney)
 
-Opleidingen
-- Kopjes naar uitstroom richtingen
+Opleidingenpagina (Storm)
+- Security (Marieke)
+- Systeembeheer (Marieke)
+- Software Engineer (Tom)
+- Game Design (Tom)
 
-Info
+Inschrijven (Daniël)
 - Inschrijven opendag
 - Contact
 - Form met email 
 
-Gallerij
+Gallerij (Wesley)
 - Uploaden fotos
+
+RSS-Feed (Koen)
+
+Algemene Styling (Bram)
 
 -- Templates -- 
 
