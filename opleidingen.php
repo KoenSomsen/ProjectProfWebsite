@@ -5,13 +5,13 @@
 
   <!--  Meta  -->
   <meta charset="UTF-8" />
-  <title>Game Design</title>
+  <title>School project template</title>
 
   <!--  Styles  -->
   <link rel="stylesheet" href="styles/grid.css">
   <link rel="stylesheet" href="styles/index.css">
-  <link rel="stylesheet" href="styles/gamedesign.css">
-  
+  <link rel="stylesheet" href="styles/opleidingen.css">
+
 </head>
 
 <body>
@@ -25,10 +25,10 @@
         </div>
         <div class="col-10 navbar">
           <ul>
-            <li><a class="active fnt-black" href="http://localhost/websit/projectprofwebsite/index.php">Home</a></li>
-            <li><a href="#opleidingen" class="fnt-black">Opleidingen</a></li>
-            <li><a href="#galerij" class="fnt-black">Galerij</a></li>
-            <li><a href="#inschrijven" class="fnt-black">Inschrijven</a></li>
+            <li><a class="active fnt-black" href="#home">Home</a></li>
+            <li><a href="#news" class="fnt-black">News</a></li>
+            <li><a href="#contact" class="fnt-black">Contact</a></li>
+            <li><a href="#about" class="fnt-black">About</a></li>
           </ul>
         </div>
       </div>
@@ -57,7 +57,47 @@
     </div>
     <div class="col-10 content">
       <!-- CONTENT HIER !!  -->
+	  <div class="row">
+		<div class="col-12">
+		<p>Bij Amazon hogeschool bieden wij een aantal opleiding op het gebied van informatica en ICT </p>
+		</div>
+	  </div>
 
+	  <div class="row">
+		<div class="col-4">
+			<div class="oplfoto">
+				<a href="gamedesing.php">
+					<img src="images/gamedesing.jpg"/>
+				</a>
+			</div>
+		</div>
+		<div class="col-4">
+			<div class="oplfoto">
+				<a href="systeembeheer.php">
+					<img src="images/systeembeheer.jpg"/>
+				</a>
+			</div>
+		</div>
+		<div class="col-4"></div>
+	  </div>
+
+	  <div class="row">
+		<div class="col-4">
+			<div class="oplfoto">
+				<a href="softwareengeneering.php">
+					<img class="oplfoto" src="images/softwareengeneering.jpg"/>
+				</a>
+			</div>
+		</div>
+		<div class="col-4">
+			<div class="oplfoto">
+				<a href="security.php">
+					<img src="images/security.jpg"/>
+				</a>
+			</div>
+		</div>
+		<div class="col-4"></div>
+	  </div>
     </div>
   </div>
   <!-- end main page row -->

@@ -22,7 +22,7 @@
           <ul>
             <li><a class="active fnt-black" href="#home">Home</a></li>
             <li><a href="#opleidingen" class="fnt-black">Opleidingen</a></li>
-            <li><a href="#galerij" class="fnt-black">Galerij</a></li>
+            <li><a href="galerij.php" class="fnt-black">Galerij</a></li>
             <li><a href="#inschrijven" class="fnt-black">Inschrijven</a></li>
           </ul>
         </div>

@@ -5,13 +5,12 @@
 
   <!--  Meta  -->
   <meta charset="UTF-8" />
-  <title>Game Design</title>
+  <title>School project template</title>
 
   <!--  Styles  -->
   <link rel="stylesheet" href="styles/grid.css">
   <link rel="stylesheet" href="styles/index.css">
-  <link rel="stylesheet" href="styles/gamedesign.css">
-  
+
 </head>
 
 <body>
@@ -25,7 +24,7 @@
         </div>
         <div class="col-10 navbar">
           <ul>
-            <li><a class="active fnt-black" href="http://localhost/websit/projectprofwebsite/index.php">Home</a></li>
+            <li><a class="active fnt-black" href="#home">Home</a></li>
             <li><a href="#opleidingen" class="fnt-black">Opleidingen</a></li>
             <li><a href="#galerij" class="fnt-black">Galerij</a></li>
             <li><a href="#inschrijven" class="fnt-black">Inschrijven</a></li>
@@ -56,8 +55,31 @@
       RSS-FEED
     </div>
     <div class="col-10 content">
-      <!-- CONTENT HIER !!  -->
+        <!-- CONTENT HIER !!  -->
+        
+        <?php
 
+            $dir = "images/galerij";
+            $images = glob("$dir/*.{jpg,png,bmp}", GLOB_BRACE);
+
+            foreach($images as $image)
+            {
+                //Image accessor.
+                echo "<div class='row'>";
+
+                echo $image;
+
+                echo "</div>";
+            }
+
+        ?>
+         
+        <?php
+
+        ?>
+        
+        
+        <!-- END CONTENT -->
     </div>
   </div>
   <!-- end main page row -->
