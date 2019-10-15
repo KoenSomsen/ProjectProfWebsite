@@ -9,27 +9,23 @@
   }
   
   .col-1 {
-    grid-area: col;
     grid-column-start: auto;
     grid-column-end: span 1;
     
     
   }
   .col-2 {
-    grid-area: col;
     grid-column-start: auto;
     grid-column-end: span 2;
   }
   
   .col-3 {
-    grid-area: col;
     grid-column-start: auto;
     grid-column-end: span 3;
   }
   
   
   .col-4 {
-    grid-area: col;
     grid-column-start: auto;
     grid-column-end: span 4;
   }
@@ -37,14 +33,12 @@
   
   
   .col-5 {
-    grid-area: col;
     grid-column-start: auto;
     grid-column-end: span 5;
   }
   
   
   .col-6 {
-    grid-area: col;
     grid-column-start: auto;
     grid-column-end: span 6;
   }
@@ -52,45 +46,33 @@
   
   
   .col-7 {
-    grid-area: col;
     grid-column-start: auto;
     grid-column-end: span 7;
   }
   
   
-  .col-3 {
-    grid-area: col;
-    grid-column-start: auto;
-    grid-column-end: span 3;
-  }
-  
-  
+ 
   .col-8 {
-    grid-area: col;
     grid-column-start: auto;
     grid-column-end: span 8;
   }
   
   .col-9 {
-    grid-area: col;
     grid-column-start: auto;
     grid-column-end: span 9;
   }
   
   .col-10 {
-    grid-area: col;
     grid-column-start: auto;
     grid-column-end: span 10;
   }
   
   .col-11 {
-    grid-area: col;
     grid-column-start: auto;
     grid-column-end: span 11;
   }
   
   .col-12 {
-    grid-area: col;
     grid-column-start: auto;
     grid-column-end: span 12;
   }
