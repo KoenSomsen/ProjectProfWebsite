@@ -47,7 +47,7 @@
         </div>
         <div class="col-2">
 			<h1 class="white fnt-white">
-				Verleg je eigen grenzen, niet de Amazone.
+				Verleg je eigen grenzen, niet die van de Amazone.
 			</h1>
         </div>
         <div class="col-9"></div>
