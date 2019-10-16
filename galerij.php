@@ -23,7 +23,7 @@
                 $alt = $fin[0];
                 echo "<div class='col-3 galery_image'>";
                 //echo "<img height='150' src='{$image}'/>";
-                echo "<div class='img_container' alt='{$alt}' style='background-image: url({$image});'></div>";
+                echo "<div class='img_container' title='{$alt}' alt='{$alt}' style='background-image: url({$image});'></div>";
                 echo "</div>";
 
                 
