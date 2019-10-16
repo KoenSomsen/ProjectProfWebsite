@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="styles/softwareengineer.css">
   <link rel="stylesheet" href="styles/systeembeheer.css">
   <link rel="stylesheet" href="styles/galerij.css">
+	<?php include 'images/favicon/favicon.htm'; ?>
 </head>
 
 <body>
