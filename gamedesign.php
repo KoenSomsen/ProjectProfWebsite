@@ -1,4 +1,4 @@
-<<?php $title = "homepage"; ?>
+<?php $title = "homepage"; ?>
 <?php include 'partials/header.php'; ?>
 
   <!-- main page row -->
