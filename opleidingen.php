@@ -17,7 +17,7 @@
 	  <div class="row">
 		<div class="col-4">
 			<div class="oplfoto">
-				<a href="gamedesing.php">
+				<a href="gamedesign.php">
 					<img src="images/gamedesing.jpg"/>
 				</a>
 			</div>

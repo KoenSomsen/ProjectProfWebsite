@@ -10,6 +10,10 @@
   <!--  Styles  -->
   <link rel="stylesheet" href="styles/grid.css">
   <link rel="stylesheet" href="styles/index.css">
+  <link rel="stylesheet" href="styles/gamedesign.css">
+  <link rel="stylesheet" href="styles/opleidingen.css">
+  <link rel="stylesheet" href="styles/softwareengineer.css">
+  <link rel="stylesheet" href="styles/systeembeheer.css">
 </head>
 
 <body>
