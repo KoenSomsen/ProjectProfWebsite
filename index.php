@@ -1,52 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <!--  Meta  -->
-  <meta charset="UTF-8" />
-  <title>School project template</title>
+<?php $title = "homepage"; ?>
+<?php include 'partials/header.php'; ?>
 
-  <!--  Styles  -->
-  <link rel="stylesheet" href="styles/grid.css">
-  <link rel="stylesheet" href="styles/index.css">
-</head>
-
-<body>
-  <!-- header row -->
-  <div class="row">
-    <div class="col-12 header bg-white">
-      <div class="row">
-        <div class="col-2 logo">
-          <img id="logo" src="images/logo.svg" alt="Logo Amazon Hogeschool"/>
-        </div>
-        <div class="col-10 navbar">
-          <ul>
-            <li><a class="active fnt-black" href="#home">Home</a></li>
-            <li><a href="#opleidingen" class="fnt-black">Opleidingen</a></li>
-            <li><a href="galerij.php" class="fnt-black">Galerij</a></li>
-            <li><a href="#inschrijven" class="fnt-black">Inschrijven</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- end header -->
-  <!-- Big image -->
-  <div class="row">
-    <div class="col-12 bigimage">
-      <div class="row">
-		<div class="col-1">
-          <!-- Place holder -->
-        </div>
-        <div class="col-2">
-			<h1 class="white fnt-white">
-				Verleg je eigen grenzen, niet de Amazone.
-			</h1>
-        </div>
-        <div class="col-9"></div>
-      </div>
-    </div>
-  </div>
-  <!-- end big image -->
   <!-- main page row -->
   <div class="row mainpage">
     <div class="col-2 sidebar">
@@ -75,7 +29,7 @@
 
       </div>
       <div class="row">
-        <div class="col-12 card">
+        <div class="col-5 card">
           <h1>Amazon hogeschool. Grensverleggend!</h1>
           <p>Door je grenzen te verleggen bereik je meer. Daarom dagen onze docenten je iedere dag uit je talenten te ontdekken en te ontwikkelen. Deze ontdekkingsreis overstijgt de grenzen van je opleiding. Je doet namelijk ook kennis op bij andere opleidingen en zelfs buiten de muren van onze hogeschool. Onze campussen vind je in Noord-Nederland en in het buitenland. Van Leeuwarden tot Zuid-Afrika; de wereld ligt aan je voeten.</p>
         </div>
