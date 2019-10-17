@@ -35,7 +35,7 @@
 	  <div class="row">
 		<div class="col-4">
 			<div class="oplfoto">
-				<a href="softwareengeneering.php">
+				<a href="softwareengineer.php">
 					<img class="oplfoto" src="images/softwareengeneering.jpg"/>
 				</a>
 			</div>
