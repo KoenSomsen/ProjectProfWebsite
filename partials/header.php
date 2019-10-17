@@ -22,6 +22,7 @@ $quote = $quotes[array_rand($quotes)];
   <link rel="stylesheet" href="styles/systeembeheer.css">
   <link rel="stylesheet" href="styles/galerij.css">
   <link rel="stylesheet" href="styles/global.css">
+  <link rel="stylesheet" href="styles/security.css">
 	<?php include 'images/favicon/favicon.htm'; ?>
 </head>
 
