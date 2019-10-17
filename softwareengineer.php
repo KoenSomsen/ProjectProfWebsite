@@ -20,6 +20,7 @@
                     Je leert programmeren op het hoogste niveau in verschillende programmeertalen en volgens de nieuwste ontwikkelmethoden.
                 </p>
             </div>
+<<<<<<< HEAD
             <div class="col-1 leegsoftware">
             </div>
             <div class="col-4 lijstsoftware">
@@ -46,6 +47,10 @@
         </div>
     </div>
     <!-- end footer -->
+=======
+            <!-- end main page row -->
+            <?php include 'partials/footer.php'; ?>
+>>>>>>> 0f90e39d21718cd77e1564baedae6046f9e32c20
 
     <script src="scripts/index.js"></script>
 </body>
