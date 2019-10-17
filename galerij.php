@@ -7,9 +7,18 @@
       RSS-FEED
     </div>
     <div class="col-10 content">
-        <!-- CONTENT HIER !!  -->
+
         <div class="row">
-          
+          <div class="col-12">
+            <form id="upload_form" action="upload.php" method="post" enctype="multipart/form-data">
+              Upload hier zelf een foto
+              <input type="file" name="fileToUpload" id="fileToUpload">
+              <input type="submit" value="Upload Image" name="submit">
+            </form>
+          </div>
+        </div>
+        <!-- CONTENT HIER !!  -->
+        
         <?php
 
             $dir = "images/galerij";
@@ -17,25 +26,34 @@
 
             foreach($images as $image)
             {
-                //echo $image;
-                $spl =  explode('/', $image);
-                $fin = explode('.', $spl[count($spl)-1]);
-                $alt = $fin[0];
-                echo "<div class='col-3 galery_image'>";
-                //echo "<img height='150' src='{$image}'/>";
-                echo "<div class='img_container' title='{$alt}' alt='{$alt}' style='background-image: url({$image});'></div>";
-                echo "</div>";
+                //Image accessor.
+                echo "<div class='row'>";
 
-                
+                echo $image;
+
+                echo "</div>";
             }
+
         ?>
-         </div>
+         
         
         <!-- END CONTENT -->
     </div>
   </div>
   <!-- end main page row -->
-  <?php include 'partials/footer.php'; ?>
+  <!-- Footer -->
+  <div class="row footer bg-midgreen fnt-white">
+    <div class="col-3">
+      <!-- Lege placeholder -->
+    </div>
+    <div class="col-6">
+      Copyright 2019 Amazon hogeschool
+    </div>
+    <div class="col-3">
+      <!-- Lege placeholder -->
+    </div>
+  </div>
+  <!-- end footer -->
 
   <script src="scripts/index.js"></script>
 </body>
