@@ -22,5 +22,9 @@
 
 
 #upload_form {
-    float: left;
+    border: 2px solid black;
+}
+
+#upload_form > input {
+   
 }
