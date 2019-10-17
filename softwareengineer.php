@@ -20,13 +20,19 @@
                     Je leert programmeren op het hoogste niveau in verschillende programmeertalen en volgens de nieuwste ontwikkelmethoden.
                 </p>
             </div>
-<<<<<<< HEAD
-            <div class="col-1 leegsoftware">
+            <div class="col-2 card">
+                <ul>
+                    <li>HBO</li>
+                    <li>Voltijd</li>
+                    <li>Start: September 2020</li>                    
+                </ul>
             </div>
-            <div class="col-4 lijstsoftware">
-                <li>
-                    bier
-                </li>
+                        <div class="col-3 card">
+                <ul>
+                    <p><b>Toelatingseisen</b></p>
+                    <li>havo-, vwo- of mbo-4-diploma</li>
+                    <li>Pakket met Wiskunde niet vereist</li>                    
+                </ul>
             </div>
             <div class="col-9 plaatjesoftwareengineer">
                 <img src="images/softwareman.jpg" alt="Man die programeert">

@@ -9,14 +9,15 @@
 			$xml = simplexml_load_file($feed);
 			$xml2 = simplexml_load_file($feed);
 			foreach ($xml->channel->item as $item2){
-				echo "<div class='filler'>";
-					//showed de title, description en link op de pagina van de $feed (kan uitgebreid worden met meerdere dingen als pagina het heeft.
-				echo "<div class='kleur fontSize'>" .$item2->title . "</div><br>";
+				echo "<div class='filler'>"; // volledige blok
+
+				echo "<div class='kleur-fontSize'>" .$item2->title . "</div><br>";
                       
 				echo  "<div class='color'>" . $item2->description . "</div><br>";
-				echo "</div>";
-				echo  "<div class='color'>" . $item2->pubDate . "</div><br><br>";
-				//echo "<div class='size2'><div class='color'> ". $item2->link ." </div><div>";  
+				
+				echo  "<div class='color2'>" . $item2->pubDate . "</div><br><br>";
+
+				echo "</div>"; //einde volledige blok
 			}               
 		?>
     </div>
