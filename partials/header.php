@@ -15,7 +15,7 @@ $quote = $quotes[array_rand($quotes)];
 
   <!--  Styles  -->
   <link rel="stylesheet" href="styles/grid.css">
-  <link rel="stylesheet" href="styles/index.css">
+  <link rel="stylesheet" href="styles/<?php if (!empty($_GET['dark'])){echo 'indexdark.css';}else{echo'index.css';} ?>">
   <link rel="stylesheet" href="styles/gamedesign.css">
   <link rel="stylesheet" href="styles/opleidingen.css">
   <link rel="stylesheet" href="styles/softwareengineer.css">
