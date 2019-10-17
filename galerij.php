@@ -7,6 +7,16 @@
       RSS-FEED
     </div>
     <div class="col-10 content">
+
+        <div class="row">
+          <div class="col-12">
+            <form id="upload_form" action="upload.php" method="post" enctype="multipart/form-data">
+              Upload hier zelf een foto
+              <input type="file" name="fileToUpload" id="fileToUpload">
+              <input type="submit" value="Upload Image" name="submit">
+            </form>
+          </div>
+        </div>
         <!-- CONTENT HIER !!  -->
         <div class="row">
           
