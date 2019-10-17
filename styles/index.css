@@ -88,6 +88,8 @@ body {
   margin-bottom: 100px;
 }
 
+/* rss */
+
 .filler{
 	background-color: #f3f3f3;
     float: left;
@@ -95,4 +97,12 @@ body {
     min-width: 98%;
     margin-top: 5px;
     margin-left: 5px;
+}
+
+.kleur-fontSize {
+	font-weight: bold;
+}
+
+.color2{
+	border-bottom: 1px solid black;
 }
