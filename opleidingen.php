@@ -22,6 +22,7 @@
 				</a>
 			</div>
 		</div>
+                <div class="col-1"></div>
 		<div class="col-4">
 			<div class="oplfoto">
 				<a href="systeembeheer.php">
@@ -29,9 +30,9 @@
 				</a>
 			</div>
 		</div>
-		<div class="col-4"></div>
+		<div class="col-3"></div>
 	  </div>
-
+          <br> <br> <br> <br>
 	  <div class="row">
 		<div class="col-4">
 			<div class="oplfoto">
@@ -40,6 +41,7 @@
 				</a>
 			</div>
 		</div>
+                <div class="col-1"></div>
 		<div class="col-4">
 			<div class="oplfoto">
 				<a href="security.php">
@@ -47,24 +49,12 @@
 				</a>
 			</div>
 		</div>
-		<div class="col-4"></div>
+		<div class="col-3"></div>
 	  </div>
     </div>
   </div>
   <!-- end main page row -->
-  <!-- Footer -->
-  <div class="row footer bg-midgreen fnt-white">
-    <div class="col-3">
-      <!-- Lege placeholder -->
-    </div>
-    <div class="col-6">
-      Copyright 2019 Amazon hogeschool
-    </div>
-    <div class="col-3">
-      <!-- Lege placeholder -->
-    </div>
-  </div>
-  <!-- end footer -->
+  <?php include 'partials/footer.php'; ?>
 
   <script src="scripts/index.js"></script>
 </body>
