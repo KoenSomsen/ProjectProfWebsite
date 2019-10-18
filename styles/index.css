@@ -91,6 +91,14 @@ body {
 /* rss */
 
 .filler{
+	
+}
+
+.kleur-fontSize {
+	font-weight: bold;
+}
+
+.rss-box {
 	background-color: #f3f3f3;
     float: left;
     overflow-y: scroll;
@@ -99,10 +107,6 @@ body {
     margin-left: 5px;
 }
 
-.kleur-fontSize {
-	font-weight: bold;
-}
-
-.color2{
+.color2 {
 	border-bottom: 1px solid black;
 }
