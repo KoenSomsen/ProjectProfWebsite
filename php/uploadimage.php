@@ -2,6 +2,10 @@
 
 $target_dir = "../images/galerij/"; 
 $target_file = $target_dir . basename($_FILES["image"]["name"]);
+
+
+
+
 $uploadOk = 1;
 $imageFileType = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
 
@@ -41,13 +45,15 @@ if(file_exists($target_file)) {
     }
 }
 
-//error
-//noimg
-//fileexists
-//filesize
-//filetype
-//success
-//uploadtrue
+function generateRandomString($length = 15) {
+    $characters = '-_0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+    $charactersLength = strlen($characters);
+    $randomString = '';
+    for ($i = 0; $i < $length; $i++) {
+        $randomString .= $characters[rand(0, $charactersLength - 1)];
+    }
+    return $randomString;
+}
 
 
 
