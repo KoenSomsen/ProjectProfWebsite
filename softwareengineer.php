@@ -34,7 +34,11 @@
             </div>
             <div class="col-6 softwareengineer">
                 <p>
-                    De leerroute Software Engineering is onderdeel van de opleiding HBO-ICT. Binnen deze leerroute verdiep jij je in functionele,
+                    We leiden je op tot software engineer. Je gaat aan de slag met het ontwikkelen van software voor diverse toepassingen. 
+                    Je bent in staat complexe ICT-systemen te analyseren, ontwerpen en implementeren.
+                </p>
+                <p>
+                    Binnen deze leerroute verdiep jij je in functionele,
                     betrouwbare en gebruiksvriendelijke softwaresystemen. Samen met andere studenten ontwerp en ontwikkel je software voor het onderwijs, 
                     de gezondheidszorg, de overheid en organisaties in de zakelijke dienstverlening. Daarbij luister je goed naar de wensen van de klant.
                     Je leert programmeren op het hoogste niveau in verschillende programmeertalen en volgens de nieuwste ontwikkelmethoden.
