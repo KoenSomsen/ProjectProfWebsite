@@ -90,23 +90,33 @@ body {
 
 /* rss */
 
-.filler{
-	
-}
-
 .kleur-fontSize {
 	font-weight: bold;
+	padding-left: 5px;
+	padding-top: 10px;
 }
 
 .rss-box {
 	background-color: #f3f3f3;
     float: left;
     overflow-y: scroll;
-    min-width: 98%;
+    min-width: 96%;
     margin-top: 5px;
     margin-left: 5px;
+	height: 480px;
+	border-bottom: 3px solid #9BD770
+}
+
+.color img {
+	height: 0px;
+	width: 0px;
+}
+
+.color {
+	padding-left: 5px;
 }
 
 .color2 {
+	padding-left: 5px;
 	border-bottom: 1px solid black;
 }
