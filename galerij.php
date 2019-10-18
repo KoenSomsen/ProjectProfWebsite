@@ -8,7 +8,8 @@
     </div>
     <div class="col-10 content">
         <?php
-        if($_GET["error"]) {
+        if(isset($_GET["error"])) {
+          //Error is set.
           $error = "";
           switch($_GET["error"]) {
             case "noimg":
@@ -24,14 +25,25 @@
               $error = "Het bestand is geen .png, .jpeg, .jpg of .gif";
               break;
           }
-          ////error
-          //noimg
-          //fileexists
-          //filesize
-          //filetype
-          //success
-          //uploadtrue
+            echo "
+            <div class='row'>
+              <div class='col-12'>
+                <div class='error'>".$error."</div>
+              </div>
+            </div>
+            ";
 
+        }
+
+        if(isset($_GET["success"])) {
+          echo 
+          "
+          <div class='row'>
+            <div class='col-12'>
+              <div class='success'>Het bestand is toegevoegd aan de galerij.</div>
+            </div>
+          </div>
+          ";
         }
 
         ?>

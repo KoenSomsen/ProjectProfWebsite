@@ -62,3 +62,22 @@
   .arial {
     font-family: "Arial";
   }
+
+
+
+  /* Error handling */
+  .error {
+    background-color: rgb(255, 80, 80);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 28px;
+  }
+
+  .success {
+    background-color: rgb(125, 255, 121);
+    color: black;
+    text-align: center;
+    padding: 15px;
+    font-size: 28px;
+  }
