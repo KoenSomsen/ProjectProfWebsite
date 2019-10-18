@@ -16,25 +16,25 @@
 
 	  <div class="row extralaag">
 		<div class="col-4">
-			<div class="middentekst">
-				<p>gamedesing</p>
-			</div>
-			<div class="oplfoto">
-				<a href="gamedesign.php">
-					<img src="images/gamedesing.jpg"/>
-				</a>
+			<div class="container">
+				<img src="images/gamedesing.jpg" alt="Game Design" class="image" style="width:100%">
+				<div class="middle">
+					<a href="gamedesign.php">
+						<div class="text">Game Design</div>
+					</a>
+				</div>
 			</div>
 		</div>
 		<div class="col-1">
 		</div>
 		<div class="col-4">
-			<div class="middentekst">
-				<p>systeembeheer</p>
-			</div>
-			<div class="oplfoto">
-				<a href="systeembeheer.php">
-					<img src="images/systeembeheer.jpg"/>
-				</a>
+			<div class="container">
+				<img src="images/systeembeheer.jpg" alt="Systeembeheer" class="image" style="width:100%">
+				<div class="middle">
+					<a href="systeembeheer.php">
+						<div class="text">Systeembeheer</div>
+					</a>
+				</div>
 			</div>
 		</div>
 		<div class="col-3">
@@ -42,25 +42,25 @@
 	  </div>
 	  <div class="row">
 		<div class="col-4">
-			<div class="middentekst">
-				<p>softwareengeneering</p>
-			</div>
-			<div class="oplfoto">
-				<a href="softwareengineer.php">
-					<img class="oplfoto" src="images/softwareengeneering.jpg"/>
-				</a>
+			<div class="container">
+				<img src="images/softwareengeneering.jpg" alt="Softwareengineer" class="image" style="width:100%">
+				<div class="middle">
+					<a href="softwareengineer.php">
+						<div class="text">Softwareengineer</div>
+					</a>
+				</div>
 			</div>
 		</div>
 		<div class="col-1">
 		</div>
 		<div class="col-4">
-			<div class="middentekst">
-				<p>security</p>
-			</div>
-			<div class="oplfoto">
-				<a href="security.php">
-					<img src="images/cybersecurity.jpg"/>
-				</a>
+			<div class="container">
+				<img src="images/cybersecurity.jpg" alt="Security" class="image" style="width:100%">
+				<div class="middle">
+					<a href="security.php">
+						<div class="text">Security</div>
+					</a>
+				</div>
 			</div>
 		</div>
 		<div class="col-3"></div>
