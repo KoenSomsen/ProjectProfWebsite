@@ -33,7 +33,7 @@
                     <li>Utrecht</li>
                 </ul>
             </div>
-            <div class="col-6 softwareengineer">
+            <div class="col-6 gamedesign">
                 <p>
                    Je leert iets over alle vakgebieden die eraan te pas komen om een game te maken, 
                    en voor een deel leer je zelf ook modelen en programmeren. Daarnaast wordt je steeds uitgedaagd om je creatieve ideeën scherper te krijgen. 
