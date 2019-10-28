@@ -1,4 +1,4 @@
-<?php $title = "homepage"; ?>
+<?php $title = "Homepagina"; ?>
 <?php include 'partials/header.php'; ?>
 
   <!-- main page row -->
@@ -26,8 +26,8 @@
           <div class="card_title">Hulp bij opleiding kiezen</div>
           <p>Wij helpen je graag om de opleiding te vinden die jou op het lijf geschreven is.</p>
         </div>
-
       </div>
+	  
       <div class="row">
         <div class="col-5 card">
           <h1>Amazon hogeschool. Grensverleggend!</h1>
