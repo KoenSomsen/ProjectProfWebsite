@@ -100,7 +100,7 @@ body {
 
 .rss-box {
 	background-color: #f3f3f3;
-    float: left;
+   
     overflow-y: scroll;
     min-width: 96%;
     margin-top: 5px;
