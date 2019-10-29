@@ -56,7 +56,7 @@
           </div>
         </div>
 
-        <!-- CONTENT HIER !!  -->
+        
         <div class="row">
         <?php
           $dir = "images/galerij";
@@ -73,8 +73,7 @@
               echo "</div>";
           }
         ?>
-         </div>
-        
+        </div>
         <!-- END CONTENT -->
     </div>
   </div>
