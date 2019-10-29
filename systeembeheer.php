@@ -33,12 +33,13 @@
         </ul>
         </div>
         <div class="col-6 systeembeheer">
-           <p>Als systeembeheerder ben jij een belangrijk onderdeel van een bedrijf.
-             Met deze studie krijgt je inzicth in alle belangrijke onderelen van systeembeheer.
-             Zo wordt je hier in vier jaar opgeleid tot iemand die kan programmeren en krijg je inzicht in hoe IT-Systemen worden ontwikkeld en getest. 
-             Verder leer je ook hoe je systemen ontwikkeld en de IT-infrastructuur en -architectuur.
-             Tijdens de opleiding werk je samen met een groep aan opdrachten waarin de theorie herhaaldelijk wordt gebruikt.
-             Zo leer je niet alleen de theorie, maar ook om goed samen te werken.  </p>
+             <p>
+               Met deze studie wordt je in vier jaar opgeleid tot systeebeheerder. Je krijgt inzicht in alle belangrijke onderdelen. 
+               Zo wordt je in vier jaar opgeleid tot iemand die kan programmaren, de verantwoordelijkheid voor het correct functioneren van systemen kan behouden en krijg je inzicht in hoe IT-Systemen worden ontwikkeld en getest.
+               Verder leer je ook hoe je systemen ontwikkeld en wat IT-infrastructuur en -architectuur. </p>
+            <p>
+              Tijdens de opleiding werk je samen met verschillende groepen aan opdrachten waarin de theorie herhaaldelijk wordt gebruikt.
+              Op deze manier leer je niet alleen de theorie, maar ook om goed samen te werken met collega's. </p>
             <img src="beheer.jpg" alt="systeembeheer">
         </div>
      </div>
