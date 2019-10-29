@@ -16,7 +16,7 @@
         <ul>
            <p><b>Informatie</b></p>
            <li>HBO</li>
-           <li>Voltijd</li>
+           <li>Voltijd </li>
            <li>Start: September 2020</li>      
            </br>
            <p><b>Toelatingseisen</b></p>
@@ -33,7 +33,13 @@
         </ul>
         </div>
         <div class="col-6 systeembeheer">
-          <p> </p>
+           <p>Als systeembeheerder ben jij een belangrijk onderdeel van een bedrijf.
+             Met deze studie krijgt je inzicth in alle belangrijke onderelen van systeembeheer.
+             Zo wordt je hier in vier jaar opgeleid tot iemand die kan programmeren en krijg je inzicht in hoe IT-Systemen worden ontwikkeld en getest. 
+             Verder leer je ook hoe je systemen ontwikkeld en de IT-infrastructuur en -architectuur.
+             Tijdens de opleiding werk je samen met een groep aan opdrachten waarin de theorie herhaaldelijk wordt gebruikt.
+             Zo leer je niet alleen de theorie, maar ook om goed samen te werken.  </p>
+            <img src="beheer.jpg" alt="systeembeheer">
         </div>
      </div>
 
