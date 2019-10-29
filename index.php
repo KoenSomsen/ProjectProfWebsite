@@ -4,7 +4,7 @@
   <!-- main page row -->
   <div class="row mainpage">
     <div class="col-2 sidebar">
-      RSS-FEED
+		<?php include "partials/rss.php"; ?>
     </div>
     <div class="col-10 content">
       <!-- CONTENT HIER !!  -->
