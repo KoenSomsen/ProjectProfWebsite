@@ -10,7 +10,7 @@
       <!-- CONTENT HIER !!  -->
 	  <div class="row">
 		<div class="col-12 card">
-		<p>Bij Amazon hogeschool bieden wij een aantal opleiding op het gebied van informatica en ICT </p>
+		<p>Bij Amazon hogeschool bieden wij een aantal opleidingen op het gebied van informatica en ICT</p>
 		</div>
 	  </div>
 
@@ -72,5 +72,4 @@
 
   <script src="scripts/index.js"></script>
 </body>
-
 </html>
