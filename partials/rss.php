@@ -10,7 +10,7 @@
                       
 			echo  "<div class='color'>" . $item2->description . "</div><br>";
 				
-			echo  "<div class='color2'>" . $item2->pubDate . "</div><br><br>";
+			echo  "<div class='color2'>" . $item2->pubDate . "</div>";
 
 			echo "</div>"; //einde volledige blok
 		}               
