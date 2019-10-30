@@ -1,64 +1,75 @@
-.amazon_button {
-
-}
-
-
 .card {
     padding: 10px;
     margin: 5px;
     background-color: #f3f3f3;
     border-bottom: 3px solid #9BD770;
-  }
-  
-  .card > .card_title {
-    font-size: 20px;
-    font-weight: 550;
-  }
-  
-  .card > p {
-    color: #626569;
-  }
-  
-  
-  /* Default bg colors */
-  
-  .bg-lightgreen {
-    background-color: #EBF7E3;
-  }
-  
-  .bg-midgreen {
-    background-color: #9BD770;
-  }
-  
-  .bg-green {
-    background-color: #66B032;
-  }
-  
-  .bg-darkgreen {
-    background-color: #375F1B;
-  }
-  
-  .bg-darkestgreen {
-    background-color: #1B3409;
-  }
-  
-  .bg-white {
-    background-color: white;
-  }
-  /* Default font colors */
-  .fnt-white {
-    color: white;
-  }
-  
-  .fnt-black {
-    color: black;
-  }
-  
-  /* default font families */
-  .verdana {
-    font-family: "Verdana";
-  }
-  
-  .arial {
-    font-family: "Arial";
-  }
+}
+
+.card > .card_title {
+	font-size: 20px;
+	font-weight: 550;
+}
+
+.card > p {
+	color: #626569;
+}
+
+/* Default bg colors */
+
+.bg-lightgreen {
+	background-color: #EBF7E3;
+}
+
+.bg-midgreen {
+	background-color: #9BD770;
+}
+
+.bg-green {
+	background-color: #66B032;
+}
+
+.bg-darkgreen {
+	background-color: #375F1B;
+}
+
+.bg-darkestgreen {
+	background-color: #1B3409;
+}
+
+.bg-white {
+	background-color: white;
+}
+/* Default font colors */
+.fnt-white {
+	color: white;
+}
+
+.fnt-black {
+	color: black;
+}
+
+/* default font families */
+.verdana {
+	font-family: "Verdana";
+}
+
+.arial {
+	font-family: "Arial";
+}
+
+/* Error handling */
+.error {
+	background-color: rgb(255, 80, 80);
+	color: white;
+	text-align: center;
+	padding: 15px;
+	font-size: 28px;
+}
+
+.success {
+	background-color: rgb(125, 255, 121);
+	color: black;
+	text-align: center;
+	padding: 15px;
+	font-size: 28px;
+}

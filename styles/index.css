@@ -1,15 +1,17 @@
-html,
-body {
+html, body {
   min-height: 100%;
 }
+
 body {
   padding: 0px;
   margin: 0px;
   min-width: 360px;
 }
-*{
+
+* {
   font-family: "arial";
 }
+
 .header {
   height: 100px;
   overflow: none;
@@ -27,8 +29,7 @@ body {
 	height: 100px;
 }
 
-.navbar > ul {
-  
+.navbar > ul {  
   font-weight: 700;
   list-style-type: none;
   margin: 0;
@@ -45,8 +46,8 @@ body {
   background-color: #EBF7E3;
   border-bottom: 3px solid #66B032;
 }
-.navbar > ul > li > a {
-  
+
+.navbar > ul > li > a {  
   display: block;
   text-align: center;
   text-decoration: none;
@@ -58,7 +59,7 @@ body {
 
 .bigimage {
   background-color: #d8d8d8;
-  height: 350px;
+  height: 224px;
   overflow: hidden;
   background-image: url("../images/b0c35e953a380d736b292259b259c98d.jpg");
   background-size: cover;
@@ -78,9 +79,11 @@ body {
 .footer {
   position: fixed;
   width: 100%;
-  height: 45px;
   bottom: 0px;
-  padding-left: 10px;
+}
+
+.footer > div > p {
+	padding-left: 25px;
 }
 
 .content {
@@ -88,13 +91,34 @@ body {
   margin-bottom: 100px;
 }
 
-.filler{
-	background-color: #f2f2f2;
-    width: 28.33%;
-    height: 498px;
-    float: left;
+/* rss */
+.kleur-fontSize {
+	font-weight: bold;
+	padding-left: 5px;
+	padding-top: 10px;
+}
+
+.rss-box {
+	background-color: #f3f3f3;
+   
     overflow-y: scroll;
-    margin-top: 8%;
-    min-width: 290.445px;
-    margin-left: 4%;
+    min-width: 96%;
+    margin-top: 5px;
+    margin-left: 5px;
+	height: 404px;
+	border-bottom: 3px solid #9BD770
+}
+
+.color img {
+	height: 0px;
+	width: 0px;
+}
+
+.color {
+	padding-left: 5px;
+}
+
+.color2 {
+	padding-left: 5px;
+	border-bottom: 2px solid #9BD770;
 }

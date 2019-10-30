@@ -1,2 +1,7 @@
-
-
+img {
+    width: 100%;
+    height: auto;
+}
+.gamedesign p{
+    text-align: justify;
+}

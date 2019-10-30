@@ -22,6 +22,7 @@ $quote = $quotes[array_rand($quotes)];
   <link rel="stylesheet" href="styles/systeembeheer.css">
   <link rel="stylesheet" href="styles/galerij.css">
   <link rel="stylesheet" href="styles/global.css">
+  <link rel="stylesheet" href="styles/security.css">
 	<?php include 'images/favicon/favicon.htm'; ?>
 </head>
 
@@ -31,7 +32,7 @@ $quote = $quotes[array_rand($quotes)];
     <div class="col-12 header bg-white">
       <div class="row">
         <div class="col-2 logo">
-          <img id="logo" src="images/logo.svg" alt="Logo Amazon Hogeschool"/>
+          <a href="index.php"><img id="logo" src="images/logo.svg" alt="Logo Amazon Hogeschool"/></a>
         </div>
         <div class="col-10 navbar">
           <ul>
