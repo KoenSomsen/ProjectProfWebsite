@@ -11,7 +11,14 @@
       <div class="row">
         <div class="col-6 card">
           <h1>Amazon hogeschool. Grensverleggend!</h1>
-          <p>Door je grenzen te verleggen bereik je meer. Daarom dagen onze docenten je iedere dag uit je talenten te ontdekken en te ontwikkelen. Deze ontdekkingsreis overstijgt de grenzen van je opleiding. Je doet namelijk ook kennis op bij andere opleidingen en zelfs buiten de muren van onze hogeschool. Onze campussen vind je in Noord-Nederland en in het buitenland. Van Leeuwarden tot Zuid-Afrika; de wereld ligt aan je voeten.</p>
+			<p>
+				Door je grenzen te verleggen bereik je meer.
+				Daarom dagen onze docenten je iedere dag uit je talenten te ontdekken en te ontwikkelen.
+				Deze ontdekkingsreis overstijgt de grenzen van je opleiding.
+				Je doet namelijk ook kennis op bij andere opleidingen en zelfs buiten de muren van onze hogeschool.
+				Onze campussen vind je in Noord-Nederland en in het buitenland.
+				Van Leeuwarden tot Zuid-Afrika; de wereld ligt aan je voeten.
+			</p>
         </div>
       </div>
 
