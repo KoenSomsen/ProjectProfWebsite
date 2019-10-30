@@ -9,10 +9,10 @@
     <div class="col-10 content">
       <!-- CONTENT HIER !!  -->
        <div class="row beheercontent">
-          <div class="col-12 beheer">
+          <div class="col-12 card">
             <h1>Systeembeheer</h1>
           </div>
-        <div class="col-3 beheer"> 
+        <div class="col-3 card"> 
         <ul>
            <p><b>Informatie</b></p>
            <li>HBO</li>
@@ -40,7 +40,7 @@
             <p>
               Tijdens de opleiding werk je samen met verschillende groepen aan opdrachten waarin de theorie herhaaldelijk wordt gebruikt.
               Op deze manier leer je niet alleen de theorie, maar ook om goed samen te werken met collega's. </p>
-            <img src="beheer.jpg" alt="systeembeheer">
+            <img src="images/beheer.jpg" alt="systeembeheer">
         </div>
      </div>
 
