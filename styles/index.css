@@ -1,26 +1,26 @@
 html, body {
-  min-height: 100%;
+	min-height: 100%;
 }
 
 body {
-  padding: 0px;
-  margin: 0px;
-  min-width: 360px;
+	padding: 0px;
+	margin: 0px;
+	min-width: 360px;
 }
 
 * {
-  font-family: "arial";
+	font-family: "arial";
 }
 
 .header {
-  height: 100px;
-  overflow: none;
+	height: 100px;
+	overflow: none;
 }
 
 .header .logo p {
-  font-weight: 700;
-  margin-left: 5px;
-  padding: 25px;
+	font-weight: 700;
+	margin-left: 5px;
+	padding: 25px;
 }
 
 #logo
@@ -30,56 +30,54 @@ body {
 }
 
 .navbar > ul {  
-  font-weight: 700;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  float: right;
+	font-weight: 700;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	float: right;
 }
 
 .navbar > ul > li {
-  float: left;
+	float: left;
 }
 
 .navbar > ul > li> a:hover {
-  background-color: #EBF7E3;
-  border-bottom: 3px solid #66B032;
+	background-color: #EBF7E3;
+	border-bottom: 3px solid #66B032;
 }
 
 .navbar > ul > li > a {  
-  display: block;
-  text-align: center;
-  text-decoration: none;
-  height: 97px;
-    
-  line-height: 100px;
-  width: 150px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	height: 97px;
+	line-height: 100px;
+	width: 150px;
 }
 
 .bigimage {
-  background-color: #d8d8d8;
-  height: 224px;
-  overflow: hidden;
-  background-image: url("../images/b0c35e953a380d736b292259b259c98d.jpg");
-  background-size: cover;
+	background-color: #d8d8d8;
+	height: 224px;
+	overflow: hidden;
+	background-image: url("../images/b0c35e953a380d736b292259b259c98d.jpg");
+	background-size: cover;
 }
 
 .mainpage, .sidebar {
-  min-height: 250px;
-  /* border: 1px solid red; */
+	min-height: 250px;
 }
 
 .fakeimage {
-  width: 50px;
-  height: 50px;
-  border: 1px solid black;
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
 }
 
 .footer {
-  position: fixed;
-  width: 100%;
-  bottom: 0px;
+	position: fixed;
+	width: 100%;
+	bottom: 0px;
 }
 
 .footer > div > p {
@@ -87,11 +85,12 @@ body {
 }
 
 .content {
-  height: auto;
-  margin-bottom: 100px;
+	height: auto;
+	margin-bottom: 100px;
 }
 
 /* rss */
+
 .kleur-fontSize {
 	font-weight: bold;
 	padding-left: 5px;
@@ -100,11 +99,10 @@ body {
 
 .rss-box {
 	background-color: #f3f3f3;
-   
-    overflow-y: scroll;
-    min-width: 96%;
-    margin-top: 5px;
-    margin-left: 5px;
+	overflow-y: scroll;
+	min-width: 96%;
+	margin-top: 5px;
+	margin-left: 5px;
 	height: 404px;
 	border-bottom: 3px solid #9BD770
 }

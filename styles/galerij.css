@@ -13,11 +13,6 @@
     background-position: 50% 50%;
 }
 
-#upload_form
-{
+#upload_form {
     border: 2px solid black;
-}
-
-#upload_form > input {
-   
 }

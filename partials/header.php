@@ -1,5 +1,9 @@
 <?php 
-if($title != null) { $title = "Amazon"; }
+
+if($title != null)
+{
+	$title = "Amazon";
+}
 
 $quotes = ["Als je wilt leren, geef dan les","Leren zonder te denken is ijdel. Denken zonder te leren is gevaarlijk","Wie criticus wil worden, moet eerst naast de bal leren slaan","De beste manier om iets te leren is er les in te geven","Wat men moet leren doen, leert men door het te doen","Als je leert motiveren, zul je leren dat leren motiveert", "Het brein is als een parachute, het werkt alleen als het open staat", "Hoe meer ik leer, hoe meer ik weet", "Het is leuk om dingen niet te kunnen, want dan kun je iets nieuws leren"];
 $quote = $quotes[array_rand($quotes)];
