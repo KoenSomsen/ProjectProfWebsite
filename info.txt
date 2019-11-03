@@ -13,12 +13,12 @@ Inschrijven (Daniël)
 - Contact
 - Form met email 
 
-Gallerij (Wesley)
+Gallerij (Wesley)       x
 - Uploaden fotos		x
 
-RSS-Feed (Koen)
+RSS-Feed (Koen) x
 
-Algemene Styling (Bram)
+Algemene Styling (Bram) x
 
 -- Templates -- 
 
