@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<naam>
+	<voornaam>kk</voornaam>
+	<tussenvoegsel>kk</tussenvoegsel>
+	<achternaam>kk</achternaam>
+</naam>
+<geslacht>V</geslacht>
+<opleiding>1</opleiding>
+<waarom></waarom>
+<bevestiging>N</bevestiging>
+<gegevens>
+	<mail>kkk@eee</mail>
+	<telefoon>00313456</telefoon>
+	<land>NL</land>
+</gegevens>
