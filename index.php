@@ -7,14 +7,7 @@
 		<?php include "partials/rss.php"; ?>
     </div>
     <div class="col-10 content">
-      <!-- CONTENT HIER !!  -->
-      <div class="row">
-        <div class="col-6 card">
-          <h1>Amazon hogeschool. Grensverleggend!</h1>
-          <p>Door je grenzen te verleggen bereik je meer. Daarom dagen onze docenten je iedere dag uit je talenten te ontdekken en te ontwikkelen. Deze ontdekkingsreis overstijgt de grenzen van je opleiding. Je doet namelijk ook kennis op bij andere opleidingen en zelfs buiten de muren van onze hogeschool. Onze campussen vind je in Noord-Nederland en in het buitenland. Van Leeuwarden tot Zuid-Afrika; de wereld ligt aan je voeten.</p>
-        </div>
-      </div>
-
+      
       <div class="row">
         <div class="col-3 card">
           <div class="card_title">Vind jouw opleiding</div>
@@ -31,6 +24,13 @@
         <div class="col-3 card">
           <div class="card_title">Hulp bij opleiding kiezen</div>
           <p>Wij helpen je graag om de opleiding te vinden die jou op het lijf geschreven is.</p>
+        </div>
+      </div>
+	  
+      <div class="row">
+        <div class="col-6 card">
+          <h1>Amazon hogeschool. Grensverleggend!</h1>
+          <p>Door je grenzen te verleggen bereik je meer. Daarom dagen onze docenten je iedere dag uit je talenten te ontdekken en te ontwikkelen. Deze ontdekkingsreis overstijgt de grenzen van je opleiding. Je doet namelijk ook kennis op bij andere opleidingen en zelfs buiten de muren van onze hogeschool. Onze campussen vind je in Noord-Nederland en in het buitenland. Van Leeuwarden tot Zuid-Afrika; de wereld ligt aan je voeten.</p>
         </div>
       </div>
     </div>
