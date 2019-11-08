@@ -9,10 +9,10 @@
     <div class="col-10 content">
       <!-- CONTENT HIER !!  -->
        <div class="row security">
-          <div class="col-12 security">
-            <h1>Systeembeheer</h1>
+          <div class="col-12 card">
+            <h1>ICT Security</h1>
           </div>
-        <div class="col-3 security"> 
+        <div class="col-3 card"> 
         <ul>
            <p><b>Informatie</b></p>
            <li>HBO</li>
@@ -39,7 +39,8 @@
                Hier krijg je van alles te weten over security: de bedreigingen, detectie, analyses maken en mogelijke oplossingen.  Ook leer je over het opzetten en uitvoeren van security-onderzoeken. </p>
             <p>
                 Als je geïnteresseerd bent in alles wat te maken heeft met beveiiging, is dit de opleiding voor jou! Omdat je in greepen werkt, werk je nooit alleen en is er altijd iemand om te helpen.
-            </p>
+            <img src="images/security1.jpg" alt="security"></p>
+            
         </div>
      </div>
 

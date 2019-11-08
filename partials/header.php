@@ -39,7 +39,7 @@ $quote = $quotes[array_rand($quotes)];
             <li><a class="active fnt-black" href="index.php">Home</a></li>
             <li><a href="opleidingen.php" class="fnt-black">Opleidingen</a></li>
             <li><a href="galerij.php" class="fnt-black">Galerij</a></li>
-            <li><a href="#inschrijven" class="fnt-black">Inschrijven</a></li>
+            <li><a href="inschrijven.php" class="fnt-black">Inschrijven</a></li>
           </ul>
         </div>
       </div>
