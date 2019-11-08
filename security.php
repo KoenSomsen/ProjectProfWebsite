@@ -10,7 +10,7 @@
       <!-- CONTENT HIER !!  -->
        <div class="row security">
           <div class="col-12 card">
-            <h1>Systeembeheer</h1>
+            <h1>ICT Security</h1>
           </div>
         <div class="col-3 card"> 
         <ul>
@@ -38,9 +38,9 @@
                Je wilt proberen alle cybercrime tegen te gaan. Je leert hier om securitymonitoromgevingen te bouwen en gevaren te kunnen decteren.
                Hier krijg je van alles te weten over security: de bedreigingen, detectie, analyses maken en mogelijke oplossingen.  Ook leer je over het opzetten en uitvoeren van security-onderzoeken. </p>
             <p>
-                Als je geïnteresseerd bent in alles wat te maken heeft met beveiliging, is dit de opleiding voor jou! Omdat je in groepen werkt, werk je nooit alleen en is er altijd iemand om te helpen.
-            </p>
-            <img src="images/security1.jpg" alt="security">
+                Als je geïnteresseerd bent in alles wat te maken heeft met beveiiging, is dit de opleiding voor jou! Omdat je in greepen werkt, werk je nooit alleen en is er altijd iemand om te helpen.
+            <img src="images/security1.jpg" alt="security"></p>
+            
         </div>
      </div>
 
