@@ -3,22 +3,22 @@
 Index (home) (sydney)		x
 
 Opleidingenpagina (Storm)	x
-- Security (Marieke)
-- Systeembeheer (Marieke)
+- Security (Marieke)		x
+- Systeembeheer (Marieke)	x
 - Software Engineer (Tom)	x
 - Game Design (Tom)		x
 
-Inschrijven (Daniël)
+Inschrijven (Daniël)		x
 - Inschrijven opendag
 - Contact
 - Form met email 
 
-Gallerij (Wesley)
-- Uploaden fotos		x
+Gallerij (Wesley)		x
+- Uploaden fotos
 
-RSS-Feed (Koen)
+RSS-Feed (Koen)			x
 
-Algemene Styling (Bram)
+Algemene Styling (Bram)		x
 
 -- Templates -- 
 
