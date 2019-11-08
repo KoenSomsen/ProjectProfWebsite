@@ -141,7 +141,7 @@
       {
         echo "checked";
       }?>>
-      1
+      Game Design
       <br>
       <input type="radio" name="opleiding" value="2"
       <?php if (!empty($_POST['opleiding']))
@@ -151,7 +151,7 @@
           echo "checked";
         }
       } ?>>
-      2
+      Systeembeheer
       <br>
       <input type="radio" name="opleiding" value="3"
       <?php if (!empty($_POST['opleiding']))
@@ -161,7 +161,7 @@
           echo "checked";
         }
       } ?>>
-      3
+      Softwareengineer
       <br>
       <input type="radio" name="opleiding" value="4"
       <?php if (!empty($_POST['opleiding']))
@@ -171,7 +171,7 @@
           echo "checked";
         }
       } ?>>
-      4
+      Security
     </p>
     <p>
       Vertel iets over jezelf:
